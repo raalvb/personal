@@ -1,0 +1,17 @@
+.img-content {
+width: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container-content {
+width: 100vn;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container-footer {
+width: 150vh;
+}
